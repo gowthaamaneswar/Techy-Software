@@ -1,0 +1,14 @@
+{
+    "name": "Techy/Software company",
+    "autoload": {
+        "psr-4": {
+            "TechySoftware\\Itcompany\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "It Company"
+    }],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
