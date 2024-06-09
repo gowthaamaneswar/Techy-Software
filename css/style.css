@@ -213,6 +213,7 @@ body{
     text-align: center;
     position: relative;
     overflow: hidden;
+    background-color: #00bfff;
     animation-direction: reverse;
     animation-duration: 6s;
     line-height: 10rem;
@@ -259,6 +260,7 @@ body{
   .section-head p{
     font-size: 20px;
     line-height: 28px;
+    background-color:#00bfff;
     text-align: center;
   }
   .item{
@@ -330,6 +332,7 @@ body{
   }
   .item p{
     font-size: 15px;
+    background-color:#00bfff;
     line-height: 26px;
   }
   .item h6{
@@ -578,6 +581,8 @@ body{
     opacity: 1;
     transition: 0.3s;
     padding: 15px 0;
+        width: 100%;
+        height: auto;
 }
 
 .clients img:hover {
@@ -1391,4 +1396,5 @@ body{
     font-family:800px;
     color: #666;
     margin-bottom: 20px;
+    
 }
