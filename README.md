@@ -1,4 +1,14 @@
 # Techy Software
+
+## Overview
+
+The project “Techy Software Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+
+## Website Link
+Go check this website!!
+
+__NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.__
+
 # Snapscreenshot
 #Home
 ![Screenshot 2024-06-07 122336](https://github.com/gowthaamaneswar/Techy-Software/assets/101704394/37aa8ed7-23ee-42ac-b2a3-aa733213de29)
@@ -28,22 +38,9 @@
 ![Screenshot 2024-06-07 122632](https://github.com/gowthaamaneswar/Techy-Software/assets/101704394/de37475c-2e03-4981-8261-72fe838a9273)
 #Footer
 ![Screenshot 2024-06-07 122644](https://github.com/gowthaamaneswar/Techy-Software/assets/101704394/b65d56ce-3f6f-4491-af6c-64bb9853bf6d)
-![Screenshot 2024-06-07 124313](https://github.com/gowthaamaneswar/Techy-Software/assets/101704394/c56d6e19-4315-46bf-859f-7ba25cde9739)
 
 
 
 
 
 
-## Overview
-
-The project “Techy Software Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
-
-## Website Link
-
-Go check this website!!
-
-
-##
-
-__NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.__
